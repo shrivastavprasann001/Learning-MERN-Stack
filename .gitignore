@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled files
+*.log
+*.class
+
+# Ignore files with sensitive information
+secret.txt
