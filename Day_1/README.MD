@@ -17,7 +17,6 @@
 array.map(function(currentValue, index, arr), thisValue)
 
 ~~ ~~
-~~ ~~
 ##Filter Method - definition
 ##Formal definition
 ###The filter method in JavaScript creates a new array with all elements that pass the test implemented by the provided function.
@@ -39,8 +38,3 @@ array.filter(function(currentValue, index, arr), thisValue)
 
 ####Syntax
 array.reduce(function(accumulator, currentValue, currentIndex, arr), initialValue)
-
-~~ ~~
-~~ ~~
-
-##Let's get started
