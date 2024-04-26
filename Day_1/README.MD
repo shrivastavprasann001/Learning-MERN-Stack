@@ -1,4 +1,4 @@
-##Day 01 Of learning MERN
+# Day 01 Of learning MERN
 
 ###Let's dive into Advanced and widly used concepts of JS that will interest experienced to developers.
 ##1. Map
