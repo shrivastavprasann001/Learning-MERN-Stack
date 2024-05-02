@@ -5,6 +5,12 @@
  ### Understanding Node.js Modules: 
 ### At its core, a Node.js module is a reusable piece of code encapsulated within a file or a directory. Modules can export functionalities, variables, or objects for use in other parts of the application, fostering a modular and organized codebase.
 
+## Types of Modules
+
+### 1. Built-in Modules: Node.js comes with a set of built-in modules, such as http, fs, and path.
+### 2. External Modules: You can install external modules using npm, such as express, mongoose, and nodemailer.
+### 3. Custom Modules: You can also create your own custom modules to reuse code within your project.
+
 ### we have different kind of modules some of us are given Below
 ### 1. Fs module
 ### 2. Url module
